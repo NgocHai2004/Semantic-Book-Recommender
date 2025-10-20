@@ -1,0 +1,4 @@
+Tạo môi trường ảo: python -m venv venv
+Kích hoạt môi trường: venv\Scripts\activate
+Thoát môi trường ảo: deactivate
+docker: compose
